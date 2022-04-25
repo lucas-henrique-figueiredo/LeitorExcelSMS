@@ -1,0 +1,12 @@
+## APP para Ler um banco de dados e tratar as informações contidas.
+
+### Linguagem utilizada python(Versão 3.10.4).
+
+**Bibliotecas: Pandas; Twilio (API para enviar notificações para dispositivos moveis)**
+
+ O seguinte app tem um algoritmo de duas partes, a primeira lê um conjunto de 6 planilhas excel (banco de dados) selecionando um numero maior que 55000 para retornar uma mensagem de que um vendedor foi selecionado e recebera um bônus. 
+
+ A segunda trata-se de um serviço de envio de SMS para um dispositivo móvel, este bloco de informações esta comentado e inativo porque precisa de uma configuração personalizado com os paramentros unicos do usuario, sendo assim basta o usuário editar enquadrando ao seus parametros de cadastro no site: https://www.twilio.com/docs/libraries/python.
+
+
+
